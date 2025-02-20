@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 🖥️  See my portfolio at [amiorhmn.github.io](http://amiorhmn.github.io)
 * ✉️  You can contact me at [amio.rhmn@gmail.com](mailto:amio.rhmn@gmail.com)
 * 🚀  I'm currently working on my personal projects
-* 🧠  I'm learning [LangChain](https://www.langchain.com/)
+* 🧠  I'm learning AI-Agents development and Data Engineering
 
 ### Skills
 
